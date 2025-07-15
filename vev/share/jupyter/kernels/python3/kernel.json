@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/LENOVO/Desktop/Desktop/mlproject2/Online-Payment-Fraud-Detection/vev\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
