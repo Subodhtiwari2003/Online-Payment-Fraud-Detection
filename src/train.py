@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report   
 
 # Load your processed dataset
-df = pd.read_csv('your_data.csv')  # already encoded & scaled if necessary  
+df = pd.read_csv('C:\\Users\\LENOVO\\Downloads\\PS_20174392719_1491204439457_log.csv.zip', compression='zip')  # already encoded & scaled if necessary
 
 X = df.drop('isFraud', axis=1)
 y = df['isFraud']
